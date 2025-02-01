@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Development</title>
+</head>
+<body>
+
+<h1>This will be a Project</h1>
+<p>Greetings from David Williams.</p>
+
+</body>
+</html>
